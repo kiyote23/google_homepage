@@ -4,20 +4,21 @@
  }
  
  .header {
-	 display: flex;
 	 float: right;
 	 padding-left: 30px;
 	 padding-right: 30px;
 	 margin-left: 0;
 	 margin-right: 0;
 	 font-size: 13px;
-	 opacity: .75;
-	 position: relative;
 	 text-align: right;
 	 align-items: center;
 	 white-space: nowrap;
 	 color: #222;
 	 vertical-align: middle;
+	 height: 30px;
+	 position: absolute;
+	 top: 15px;
+	 right: -20px;
 	  }
  
  .header2 {
@@ -111,4 +112,22 @@
 	 height: 32px;
 	 width: 32px;
 	 z-index: 0;
+ }
+ 
+ .logo {
+	 padding-bottom: 35px;
+ }
+ 
+ .ctrlp {
+	 margin: 0 auto;
+	 min-width: 980px;
+ }
+ 
+ center {
+	 display: block;
+	 text-align: -webkit-center;
+ }
+ 
+ div {
+	 display: block;
  }
