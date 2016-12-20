@@ -51,6 +51,7 @@
  
  .images {
 	 padding-left: 15px;
+	 padding-right: 10px;
 	 display: inline-block;
 	 vertical-align: middle;
  }
@@ -70,4 +71,25 @@
 	 height: 30px;
 	 vertical-align: middle;
 	 padding-left: 15px;
+ }
+ 
+ .header5 {
+	 padding-left: 15px;
+	 display: inline-block;
+	 
+ }
+ 
+ .notifications {
+	 background-position: -194px -21px;
+	 background-color: rgba(0,0,0,.55);
+	 color: #fff;
+	 box-sizing: border-box;
+	 border-radius: 50%;
+	 height: 20px;
+	 width: 20px;
+	 display: inline-block;
+	 background-size: 528px 68px;
+	 background-image: url("images/icons.png");
+	 vertical-align: middle;
+	 margin: 5px;
  }
