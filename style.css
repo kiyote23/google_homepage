@@ -1,3 +1,27 @@
  body {
  	background-color: white;
+ 	font-family: arial, sans-serif;
+ }
+ 
+ .header {
+	 display: inline;
+	 float: right;
+	 padding: 10px;
+	 font-size: 13px;
+	 opacity: .75;
+	 background-image: url("images/icons.png");
+	 background-position: -132px -38px;
+	 opacity: .55;
+	 background-size: 528px 68px;
+ }
+ 
+ .header2 {
+	 padding-left: 5px;
+	 padding-right: 5px;
+ }
+ 
+ .header3 {
+	
+	 height: 30px;
+	 width 30px;
  }
