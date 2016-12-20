@@ -93,3 +93,22 @@
 	 vertical-align: middle;
 	 margin: 5px;
  }
+ 
+ .header6 {
+	 padding: 0 0 0 15px;
+	 display: inline-block;
+	 flex: 0 1 auto;
+	 vertical-align: middle;
+ }
+ 
+ .user {
+	 background-image: url("images/photo.jpg");
+	 background-size: 32px 32px;
+	 border-radius: 50%;
+	 display: inline-block;
+	 margin: -1px;
+	 position: relative;
+	 height: 32px;
+	 width: 32px;
+	 z-index: 0;
+ }
